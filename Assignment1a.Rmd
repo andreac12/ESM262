@@ -1,0 +1,12 @@
+---
+title: "Assignment 1a"
+author: "Andrea Cornelius"
+date: "2/8/2022"
+output: html_document
+---
+
+## Why am I taking this course?
+I am taking this course to refresh and refine my R skills. I took 206 last quarter and really enjoyed the challenge and fun of deciphering the R puzzle (a.k.a. all the error messages!). I decided not to take the Advanced Data Analysis class due to the intensive time requirement of doing so many in-depth R assignments, but I thought 262 would be a happy medium. I’m happy to get to do a little more R and not forget all my coding skills completely! I would like to learn new skills for making my R markdown work more reproducible and producing best-practice workflows.
+
+## What is my data science background?
+As mentioned above, I took 206 with Allison last quarter. That is just about my only data science experience so far!
